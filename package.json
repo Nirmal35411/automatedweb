@@ -1,0 +1,34 @@
+{
+  "name": "automatedweb",
+  "version": "1.0.0",
+  "description": "Automated web deployment demo - Built with Vite and deployed to Vercel",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "vite",
+    "vercel",
+    "automated-deployment",
+    "web-demo"
+  ],
+  "author": "Nirmal35411",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nirmal35411/automatedweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nirmal35411/automatedweb/issues"
+  },
+  "homepage": "https://github.com/Nirmal35411/automatedweb#readme",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
