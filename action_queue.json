@@ -1,0 +1,16 @@
+{
+  "queue": [],
+  "summary": {
+    "total_pending": 0,
+    "critical_priority": 0,
+    "high_priority": 0,
+    "medium_priority": 0,
+    "low_priority": 0,
+    "next_action_due": null
+  },
+  "metadata": {
+    "last_updated": "2025-11-09T09:00:00+05:30",
+    "file_version": "1.0.0",
+    "description": "Action queue for COMET automation system - Process by priority: CRITICAL > HIGH > MEDIUM > LOW"
+  }
+}
