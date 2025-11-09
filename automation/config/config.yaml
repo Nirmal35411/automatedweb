@@ -1,0 +1,15 @@
+tasks:
+- name: test
+  steps:
+  - action: open_tab
+    url: https://example.com
+  - action: extract_data
+    selector: h1
+  - action: save_state
+- name: ''
+  steps:
+  - action: open_tab
+    url: ''
+  - action: extract_data
+    selector: ''
+  - action: save_state
