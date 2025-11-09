@@ -1,0 +1,18 @@
+{
+  "locks": [],
+  "status": {
+    "system_locked": false,
+    "active_locks": 0,
+    "locked_resources": []
+  },
+  "rules": {
+    "description": "Check locks before any commit to prevent conflicts",
+    "lock_timeout_minutes": 30,
+    "auto_release_on_timeout": true
+  },
+  "metadata": {
+    "last_updated": "2025-11-09T09:00:00+05:30",
+    "file_version": "1.0.0",
+    "description": "Lock management for COMET automation system - Prevents concurrent commit conflicts"
+  }
+}
